@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/test-cra-travis/static/css/main.584f321a.chunk.css",
+    "main.js": "/test-cra-travis/static/js/main.68bdac3d.chunk.js",
+    "main.js.map": "/test-cra-travis/static/js/main.68bdac3d.chunk.js.map",
+    "runtime~main.js": "/test-cra-travis/static/js/runtime~main.63900fc2.js",
+    "runtime~main.js.map": "/test-cra-travis/static/js/runtime~main.63900fc2.js.map",
+    "static/js/2.34b4fde6.chunk.js": "/test-cra-travis/static/js/2.34b4fde6.chunk.js",
+    "static/js/2.34b4fde6.chunk.js.map": "/test-cra-travis/static/js/2.34b4fde6.chunk.js.map",
+    "index.html": "/test-cra-travis/index.html",
+    "precache-manifest.deebdd6909bdf5821fd2b0a65cfdc45a.js": "/test-cra-travis/precache-manifest.deebdd6909bdf5821fd2b0a65cfdc45a.js",
+    "service-worker.js": "/test-cra-travis/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/test-cra-travis/static/css/main.584f321a.chunk.css.map",
+    "static/media/logo.svg": "/test-cra-travis/static/media/logo.5d5d9eef.svg"
+  }
+}
